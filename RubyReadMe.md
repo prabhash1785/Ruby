@@ -9,3 +9,4 @@ run HelloWorld.rb   ---> run ruby programs
 
 ruby --help
 
+ri ----> Ruby Documentation
