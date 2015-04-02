@@ -26,5 +26,21 @@ Ruby Objects: In Ruby, everything is object.
 1.methods    ---> find all the methods on the given object
 
 
+Debug:
+ruby -r debug <file_name>.rb
+
+step
+break <line_no>
+cont
+del   --> delete break point
+list    ---> list all break points
+
+
 Ref:
 The Ruby Programming Language - Oreilly
+Ruby Koans
+Ruby on Rails
+Haml/SASS
+TDD (Test Driven Design)
+  RSpec
+  Capybara
