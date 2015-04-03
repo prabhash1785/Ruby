@@ -5,8 +5,6 @@ def find_frequency(sentence, word)
     if w.upcase == word.upcase then
       count = count + 1
      end
-    # count = count + 1
-    # puts count
   end
   return count
 end
